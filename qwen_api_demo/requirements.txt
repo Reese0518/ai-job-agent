@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain-ollama
+pydantic
+python-multipart
+pypdf
+python-docx
+requests
+beautifulsoup4
+openpyxl
